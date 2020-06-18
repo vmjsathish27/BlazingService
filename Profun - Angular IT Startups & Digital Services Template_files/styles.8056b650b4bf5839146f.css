@@ -12836,7 +12836,10 @@ label {
     width: 50%;
 }
 .services-area-two {
-    padding: 100px 0px;
+    padding: 60px 0px;
+}
+p.Content {
+    text-align: center;
 }
 .services-details-desc h3 {
     font-size: 20px;
@@ -15402,9 +15405,9 @@ label {
 .page-title-area {
     position: relative; 
     z-index: 1;    
-    padding-top: 110px;   
+    padding-top: 120px;   
     text-align: center;
-    border-bottom: 1px dashed #f1f1f1;
+    
 }
 .page-title-area h2 {
     font-size: 30px;
@@ -15415,7 +15418,7 @@ label {
 
 .PgaeTitle {
     padding: 200px 0px;
-    background: url(https://public.touch2success.com/static/f81e1823ca1cca8ea997a0f3b4f07623/img/1591619441phppCoHMw.jpg);
+    background: url(https://public.touch2success.com/static/f81e1823ca1cca8ea997a0f3b4f07623/img/1592487587phpQ4L3IM.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
